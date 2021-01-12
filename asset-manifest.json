@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/css/main.ede4aebb.chunk.css",
+    "main.js": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/main.ca49419e.chunk.js",
+    "main.js.map": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/main.ca49419e.chunk.js.map",
+    "runtime-main.js": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/runtime-main.02629c8a.js",
+    "runtime-main.js.map": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/runtime-main.02629c8a.js.map",
+    "static/js/2.8e24a05d.chunk.js": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/2.8e24a05d.chunk.js",
+    "static/js/2.8e24a05d.chunk.js.map": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/2.8e24a05d.chunk.js.map",
+    "static/js/3.00d577bd.chunk.js": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/3.00d577bd.chunk.js",
+    "static/js/3.00d577bd.chunk.js.map": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/3.00d577bd.chunk.js.map",
+    "index.html": "/Users-Review-with-Custom-Lightbox-Using-React-JS/index.html",
+    "static/css/main.ede4aebb.chunk.css.map": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/css/main.ede4aebb.chunk.css.map",
+    "static/js/2.8e24a05d.chunk.js.LICENSE.txt": "/Users-Review-with-Custom-Lightbox-Using-React-JS/static/js/2.8e24a05d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02629c8a.js",
+    "static/js/2.8e24a05d.chunk.js",
+    "static/css/main.ede4aebb.chunk.css",
+    "static/js/main.ca49419e.chunk.js"
+  ]
+}
